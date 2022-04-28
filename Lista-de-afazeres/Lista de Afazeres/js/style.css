@@ -1,0 +1,24 @@
+.container{
+    border: 5px outset #292524;
+    background-color:  
+    #a1a1aa ;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.input-group{
+    border: 4px outset #292524;
+    border-radius: 10px;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #475569;
+}
+ul li {
+    list-style-type: none;
+}
