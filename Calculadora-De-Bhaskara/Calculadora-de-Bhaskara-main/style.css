@@ -1,0 +1,25 @@
+form{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(94, 107, 107);
+}
+.resultado {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(94, 107, 107);
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(94, 107, 107);
+}
+body{
+    background-color: darkcyan;
+    margin: 20%;
+    border: 5px outset   ;
+}
