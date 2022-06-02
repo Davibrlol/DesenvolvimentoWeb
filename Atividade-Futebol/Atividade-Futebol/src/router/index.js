@@ -17,7 +17,7 @@ const router = createRouter({
       component: TimesView,
     },
     {
-      path: "/Jogadores",
+      path: "/jogadores",
       name: "Jogadores",
       component: JogadoresView,
     },
