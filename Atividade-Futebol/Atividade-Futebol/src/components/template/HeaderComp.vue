@@ -18,5 +18,7 @@ header span {
 }
 header.menu-superior {
   justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
 }
 </style>

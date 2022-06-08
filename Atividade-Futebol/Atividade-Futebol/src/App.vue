@@ -5,12 +5,16 @@ import RodapeComp from "@/components/template/RodapeComp.vue";
 
 <template>
   <HeaderComp />
+  <main> 
   <RouterView />
+  </main>
   <RodapeComp />
 </template>
 
 <style>
+
 @import "@/assets/base.css";
+@import "@/assets/style.css";
 
 #app {
   max-width: 1280px;
